@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Situs Kebahagiaan</title>
+</head>
+<body>
+    <header class="hero">
+        <div class="container">
+            <h1>Situs Kebahagiaan</h1>
+            <p>Bersama Kita Bahagia</p>
+        </div>
+    </header>
+
+    <section id="momen-bahagia" class="container">
+        <h2>Momen Bahagia</h2>
+        <!-- Galeri foto atau video -->
+    </section>
+
+    <section id="tips-kebahagiaan" class="container">
+        <h2>Tips Kebahagiaan</h2>
+        <!-- Artikel atau tips kebahagiaan -->
+    </section>
+
+    <section id="fitur-interaktif" class="container">
+        <h2>Fitur Interaktif</h2>
+        <!-- Formulir, buku tamu, dll. -->
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Pacar Bahagia</p>
+        </div>
+    </footer>
+</body>
+</html>
